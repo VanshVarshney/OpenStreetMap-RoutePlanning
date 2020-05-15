@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="OSM_A_star_search" targetName="gtest_main" />
+      <config projectName="OSM_A_star_search" targetName="test" />
+      <config projectName="OSM_A_star_search" targetName="pugixml" />
+      <config projectName="OSM_A_star_search" targetName="gtest" />
+      <config projectName="OSM_A_star_search" targetName="OSM_A_star_search" />
+      <config projectName="OSM_A_star_search" targetName="gmock" />
+      <config projectName="OSM_A_star_search" targetName="gmock_main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" BUILD_OPTIONS="-j 12" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f560ebd-0f15-4721-8aa4-7e95224e7c1f" name="Default Changelist" comment="Comments updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/src/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/src/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/src/model.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/src/model.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/src/render.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/src/render.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/src/route_planner.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OSM_A_star_search.dir/src/route_planner.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/src/model.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/src/model.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/src/route_planner.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/src/route_planner.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OSM_A_star_search" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/OSM_A_star_search" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VdjpYvLNN13dFk7SQ1EpkyCRZy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.24826904" />
+  </component>
+  <component name="RunManager" selected="CMake Application.OSM_A_star_search">
+    <configuration name="OSM_A_star_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OSM_A_star_search" TARGET_NAME="OSM_A_star_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OSM_A_star_search" RUN_TARGET_NAME="OSM_A_star_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OSM_A_star_search" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OSM_A_star_search" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OSM_A_star_search" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OSM_A_star_search" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pugixml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OSM_A_star_search" TARGET_NAME="pugixml" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OSM_A_star_search" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OSM_A_star_search" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.OSM_A_star_search" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.pugixml" />
+      <item itemvalue="CMake Application.test" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f560ebd-0f15-4721-8aa4-7e95224e7c1f" name="Default Changelist" comment="" />
+      <created>1577590049760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577590049760</updated>
+      <workItem from="1577590051774" duration="254000" />
+      <workItem from="1577590323750" duration="703000" />
+      <workItem from="1577592327024" duration="606000" />
+      <workItem from="1577620879113" duration="807000" />
+      <workItem from="1577621696368" duration="620000" />
+      <workItem from="1577622326848" duration="134000" />
+      <workItem from="1577622471479" duration="45000" />
+      <workItem from="1577622732390" duration="209000" />
+      <workItem from="1577622951020" duration="5586000" />
+      <workItem from="1577661627737" duration="1107000" />
+      <workItem from="1577774445387" duration="2092000" />
+      <workItem from="1577957583098" duration="629000" />
+      <workItem from="1577960906509" duration="174000" />
+      <workItem from="1577961781531" duration="1450000" />
+      <workItem from="1577972269546" duration="14000" />
+      <workItem from="1577972300748" duration="837000" />
+      <workItem from="1578016875723" duration="3632000" />
+      <workItem from="1578063413062" duration="11000" />
+      <workItem from="1578383720707" duration="696000" />
+      <workItem from="1578663232326" duration="601000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1577590394617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577590394617</updated>
+    </task>
+    <task id="LOCAL-00002" summary="build issue resolved">
+      <created>1577592801013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577592801013</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changes in main()">
+      <created>1577624630847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577624630847</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finished project">
+      <created>1577626781565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577626781565</updated>
+    </task>
+    <task id="LOCAL-00005" summary="reverse the path found">
+      <created>1577627749315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577627749315</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final update">
+      <created>1577661654249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577661654249</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final update">
+      <created>1577661668876</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577661668876</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Git restructured">
+      <created>1577972349544</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577972349544</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Comments in main()">
+      <created>1577972529563</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577972529563</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Comments in main()">
+      <created>1577972833074</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1577972833074</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Comments updated">
+      <created>1577972944743</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577972944743</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Comments updated">
+      <created>1578024360130</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578024360130</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Comments updated">
+      <created>1578024524482</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578024524482</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Comments updated">
+      <created>1578025150838</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1578025150838</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/thirdparty/googletest" />
+      <path value="$PROJECT_DIR$/thirdparty/pugixml" />
+    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="build issue resolved" />
+    <MESSAGE value="changes in main()" />
+    <MESSAGE value="finished project" />
+    <MESSAGE value="reverse the path found" />
+    <MESSAGE value="Final update" />
+    <MESSAGE value="Git restructured" />
+    <MESSAGE value="Comments in main()" />
+    <MESSAGE value="Comments updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comments updated" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1442" y="477" width="1718" height="1295" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577592912181">
+      <screen x="163" y="60" width="3677" height="2100" />
+    </state>
+    <state x="1442" y="477" width="1718" height="1295" key="#com.intellij.execution.impl.EditConfigurationsDialog/163.60.3677.2100@163.60.3677.2100" timestamp="1577592912181" />
+    <state x="330" y="122" width="1235" height="659" key="CommitChangelistDialog2" timestamp="1578025183960">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="689" y="254" key="CommitChangelistDialog2/163.60.3677.2100@163.60.3677.2100" timestamp="1577592800909" />
+    <state x="330" y="122" width="1235" height="659" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1578025183960" />
+    <state x="1516" y="551" key="FileChooserDialogImpl" timestamp="1577782184413">
+      <screen x="146" y="54" width="3694" height="2106" />
+    </state>
+    <state x="1516" y="551" key="FileChooserDialogImpl/146.54.3694.2106@146.54.3694.2106" timestamp="1577782184413" />
+    <state width="1254" height="430" key="GridCell.Tab.0.bottom" timestamp="1578407168133">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="2587" height="818" key="GridCell.Tab.0.bottom/146.54.3694.2106@146.54.3694.2106" timestamp="1577782190303" />
+    <state width="3567" height="564" key="GridCell.Tab.0.bottom/163.60.3677.2100@163.60.3677.2100" timestamp="1577592960477" />
+    <state width="1191" height="179" key="GridCell.Tab.0.bottom/43.16.1237.704@43.16.1237.704" timestamp="1577621685927" />
+    <state width="1254" height="430" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1578407168133" />
+    <state width="1254" height="430" key="GridCell.Tab.0.center" timestamp="1578407168129">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="2587" height="818" key="GridCell.Tab.0.center/146.54.3694.2106@146.54.3694.2106" timestamp="1577782190301" />
+    <state width="3567" height="564" key="GridCell.Tab.0.center/163.60.3677.2100@163.60.3677.2100" timestamp="1577592960477" />
+    <state width="1191" height="179" key="GridCell.Tab.0.center/43.16.1237.704@43.16.1237.704" timestamp="1577621685926" />
+    <state width="1254" height="430" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1578407168129" />
+    <state width="1254" height="430" key="GridCell.Tab.0.left" timestamp="1578407168129">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="2587" height="818" key="GridCell.Tab.0.left/146.54.3694.2106@146.54.3694.2106" timestamp="1577782190300" />
+    <state width="3567" height="564" key="GridCell.Tab.0.left/163.60.3677.2100@163.60.3677.2100" timestamp="1577592960476" />
+    <state width="1191" height="179" key="GridCell.Tab.0.left/43.16.1237.704@43.16.1237.704" timestamp="1577621685925" />
+    <state width="1254" height="430" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1578407168129" />
+    <state width="1254" height="430" key="GridCell.Tab.0.right" timestamp="1578407168130">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="2587" height="818" key="GridCell.Tab.0.right/146.54.3694.2106@146.54.3694.2106" timestamp="1577782190302" />
+    <state width="3567" height="564" key="GridCell.Tab.0.right/163.60.3677.2100@163.60.3677.2100" timestamp="1577592960477" />
+    <state width="1191" height="179" key="GridCell.Tab.0.right/43.16.1237.704@43.16.1237.704" timestamp="1577621685927" />
+    <state width="1254" height="430" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1578407168130" />
+    <state x="270" y="34" key="SettingsEditor" timestamp="1577972318991">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="748" y="186" key="SettingsEditor/163.60.3677.2100@163.60.3677.2100" timestamp="1577592932112" />
+    <state x="180" y="16" key="SettingsEditor/43.16.1237.704@43.16.1237.704" timestamp="1577623022450" />
+    <state x="270" y="34" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1577972318991" />
+    <state x="488" y="204" key="Vcs.Push.Dialog.v2" timestamp="1578025187487">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1001" y="417" key="Vcs.Push.Dialog.v2/163.60.3677.2100@163.60.3677.2100" timestamp="1577592808672" />
+    <state x="488" y="204" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1578025187487" />
+    <state x="569" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1577972270990">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1161" y="693" key="com.intellij.ide.util.TipDialog/163.60.3677.2100@163.60.3677.2100" timestamp="1577592328742" />
+    <state x="379" y="228" key="com.intellij.ide.util.TipDialog/43.16.1237.704@43.16.1237.704" timestamp="1577622953042" />
+    <state x="569" y="342" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1577972270990" />
+    <state x="639" y="144" width="707" height="807" key="find.popup" timestamp="1577623858224">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="639" y="144" width="707" height="807" key="find.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1577623858224" />
+    <state x="429" y="248" width="716" height="290" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1577622780732">
+      <screen x="43" y="16" width="1237" height="704" />
+    </state>
+    <state x="429" y="248" width="716" height="290" key="org.intellij.images.editor.actions.BackgroundImageDialog/43.16.1237.704@43.16.1237.704" timestamp="1577622780732" />
+  </component>
+</project>
